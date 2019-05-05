@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LAT3_AKB11_10116505_Titan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_NAMA">Titan Ferdyansyah</string>
+    <string name="nav_header_katabijak">"Jalani Hidup Seperti Larry"</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_Daily">Daily Activity</string>
+    <string name="menu_teman">Friends List</string>
+    <string name="menu_Music">Music</string>
+    <string name="menu_Video">Video</string>
+    <string name="menu_Profile">Profile</string>
+    <string name="menu_tentang">about</string>
+
+    <string name="data_email"><b>titanfrs@gmail.com</b></string>
+    <string name="data_tempatlahir">saya lahir di <b>Kota Bandung</b> <b></b></string>
+    <string name="data_tanggal"> saya lahir tanggal <b>25 maret 1998 </b></string>
+    <string name="data_pekerjaan">saya seorang <b>Mahasiswa</b></string>
+    <string name="data_makanan">Makanan kesukaan saya <b>Semua Suka</b></string>
+    <string name="data_minuman">Minuman kesukaan saya <b>Mineral</b></string>
+
+    <string name="tentang_saya">Nama saya Titan Ferdyansyah lahir di kota Bandung tepatnya
+    pada tanggal 25 maret 1998 saya sekarang sibuk kuliah di salah satu perguruan tinggi yaitu
+    UNIKOM. Saya terlahri dari 2 bersaudara dan saya juga bertekad teguh agar menjadi contoh yang baik.
+    saya kelak ingin menjadi presiden hobby saya adalah bermain musik dan bermain video game saya senang
+    </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
